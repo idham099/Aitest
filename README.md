@@ -2,6 +2,8 @@
 
 **AI Testcase Generator** adalah asisten cerdas berbasis AI yang dirancang untuk mempercepat alur kerja Quality Assurance. Tool ini mentransformasi *User Story* menjadi dokumen testing profesional dan boilerplate automation script dalam hitungan detik.
 
+Berikut ini Link Demonya : **https://www.youtube.com/watch?v=pnDXe5-Rm2g**
+
 <img width="1723" height="944" alt="01" src="https://github.com/user-attachments/assets/a7ccd033-60c1-492f-83b3-5f268146aaa9" />
 
 <img width="1734" height="956" alt="03" src="https://github.com/user-attachments/assets/33c30c81-40df-4a79-86c0-5558761a7a00" />
