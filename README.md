@@ -4,7 +4,7 @@
 
 Here's the demo link: [Demo Testing](https://www.youtube.com/watch?v=pnDXe5-Rm2g)
 
-Here's the article link: [Article](https://ainul-idhamid.blogspot.com/2026/04/project-matikasi-qa-membangun-ai.html)
+Here's the article link: [Article](https://ainul-idhamid.blogspot.com/2026/04/project-otomatisasi-qa-membangun-ai.html)
 
 <img width="1723" height="944" alt="01" src="https://github.com/user-attachments/assets/a7ccd033-60c1-492f-83b3-5f268146aaa9" />
 
