@@ -1,8 +1,9 @@
 # AI Testcase Generator 🧪
 
-**AI Testcase Generator** adalah asisten cerdas berbasis AI yang dirancang untuk mempercepat alur kerja Quality Assurance. Tool ini mentransformasi *User Story* menjadi dokumen testing profesional dan boilerplate automation script dalam hitungan detik.
+**The AI ​​Testcase Generator** is an AI-powered intelligent assistant designed to accelerate Quality Assurance workflows. It transforms User Stories into professional-looking testing documents and boilerplate automation scripts in seconds.
 
-Berikut ini Link Demonya : **https://www.youtube.com/watch?v=pnDXe5-Rm2g**
+Here's the demo link: [Demo Testing](https://www.youtube.com/watch?v=pnDXe5-Rm2g)
+Here's the article link: [Article](https://ainul-idhamid.blogspot.com/2026/04/project-matikasi-qa-membangun-ai.html)
 
 <img width="1723" height="944" alt="01" src="https://github.com/user-attachments/assets/a7ccd033-60c1-492f-83b3-5f268146aaa9" />
 
@@ -13,9 +14,9 @@ Berikut ini Link Demonya : **https://www.youtube.com/watch?v=pnDXe5-Rm2g**
 <img width="1721" height="956" alt="05" src="https://github.com/user-attachments/assets/b0c93359-c0a1-4be8-b6db-a8d6e5dd1f00" />
 
 ## 🚀 Key Features
-- **Automated Test Suite:** Menghasilkan tabel Test Case (Positive, Negative, Edge Cases).
-- **Playwright Boilerplate:** Generate script automation berbasis TypeScript/Python.
-- **Resilient Architecture:** Implementasi strategi API Fallback untuk stabilitas performa.
+- **Automated Test Suite:** Generates a table of test cases (positive, negative, and edge cases).
+- **Playwright Boilerplate:** Generates TypeScript/Python-based automation scripts.
+- **Resilient Architecture:** Implements an API fallback strategy for performance stability.
 
 ## 🛠️ Tech Stack
 - **Language:** Python
@@ -23,9 +24,9 @@ Berikut ini Link Demonya : **https://www.youtube.com/watch?v=pnDXe5-Rm2g**
 - **AI Engine:** Google Gemini AI / G4F Proxy
 - **Automation Standard:** Playwright
 
-## 🏃 Cara Menjalankan Program (How to Run)
+## 🏃 How to Run the Program (How to Run)
 
-Ikuti langkah-langkah berikut untuk menjalankan project di lingkungan lokal Anda:
+Follow these steps to run the project in your local environment:
 
 1. **Clone Repository:**
    ```bash
@@ -34,27 +35,27 @@ Ikuti langkah-langkah berikut untuk menjalankan project di lingkungan lokal Anda
    ```
 
 2. **Install Dependencies:**
-  Pastikan Anda sudah menginstal Python, lalu jalankan:
+ Make sure you have Python installed, then run:
 
     ```Bash
        pip install -r requirements.txt
     ``` 
 
 3. **Run Application:**
-Jalankan perintah Streamlit untuk membuka dashboard di browser:
+Run the Streamlit command to open the dashboard in a browser:
 
     ```Bash
        streamlit run app.py
     ```
 
 4. **Input Configuration:**
-- Masukkan Gemini API Key Anda pada sidebar.
-- Masukkan User Story pada text area yang tersedia.
-- Klik Generate dan AI akan menyusun Test Suite untuk Anda.
+- Enter your Gemini API Key in the sidebar.
+- Enter your User Story in the text area provided.
+- Click Generate and the AI ​​will create a Test Suite for you.
 
 
 ## 📝 Disclaimer
-Proyek ini dikembangkan oleh **Ainul Idham** sebagai bagian dari portofolio riset profesional dalam mengintegrasikan Large Language Models (LLM) ke dalam Software Testing Life Cycle (STLC).
+This project was developed by **Ainul Idham** as part of his professional research portfolio on integrating Large Language Models (LLM) into the Software Testing Life Cycle (STLC).
 
 ---
-© 2026 Ainul Idham | Built for Exellence.
+© 2026 Ainul Idham | Built for Excellence.
