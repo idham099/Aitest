@@ -14,11 +14,6 @@ Here's the article link: [Article](https://ainul-idhamid.blogspot.com/2026/04/pr
 
 <img width="1721" height="956" alt="05" src="https://github.com/user-attachments/assets/b0c93359-c0a1-4be8-b6db-a8d6e5dd1f00" />
 
-## 🚀 Key Features
-- **Automated Test Suite:** Generates a table of test cases (positive, negative, and edge cases).
-- **Playwright Boilerplate:** Generates TypeScript/Python-based automation scripts.
-- **Resilient Architecture:** Implements an API fallback strategy for performance stability.
-
 ## 🛠️ Tech Stack
 - **Language:** Python
 - **Framework:** Streamlit
